@@ -16,3 +16,7 @@ function bankAccount() {
 		}console.log('please try it later');
 }
 bankAccount();
+while ( poop ) }{
+	heh eh;
+	true; // works good for me?
+}
